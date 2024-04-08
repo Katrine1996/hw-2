@@ -1,7 +1,8 @@
 //* Задание 1
 let a = 10;
 alert(a);
-alert (a * 2);
+let ab = 20;
+alert (ab);
 
 //* Задание 2
 const jahr = 2007;
@@ -63,7 +64,7 @@ console.log(user[info]);
 
 //* Задание 10
 let moniker = prompt("Как тебя зовут?");
-alert("Hello, ${moniker}!");
+alert(`Hello, ${moniker}!`);
 
 
 
