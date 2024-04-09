@@ -1,8 +1,8 @@
 //* Задание 1
 let a = 10;
 alert(a);
-let ab = 20;
-alert (ab);
+a = 20;
+alert (a);
 
 //* Задание 2
 const jahr = 2007;
